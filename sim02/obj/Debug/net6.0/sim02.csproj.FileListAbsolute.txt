@@ -1,0 +1,15 @@
+C:\Users\джайн\Desktop\seminar2\sim02\bin\Debug\net6.0\sim02.exe
+C:\Users\джайн\Desktop\seminar2\sim02\bin\Debug\net6.0\sim02.deps.json
+C:\Users\джайн\Desktop\seminar2\sim02\bin\Debug\net6.0\sim02.runtimeconfig.json
+C:\Users\джайн\Desktop\seminar2\sim02\bin\Debug\net6.0\sim02.dll
+C:\Users\джайн\Desktop\seminar2\sim02\bin\Debug\net6.0\sim02.pdb
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.csproj.AssemblyReference.cache
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.AssemblyInfoInputs.cache
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.AssemblyInfo.cs
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.csproj.CoreCompileInputs.cache
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.dll
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\refint\sim02.dll
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.pdb
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\sim02.genruntimeconfig.cache
+C:\Users\джайн\Desktop\seminar2\sim02\obj\Debug\net6.0\ref\sim02.dll
